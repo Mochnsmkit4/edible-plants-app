@@ -1,4 +1,4 @@
-# flutter_application_1
+# Edible Application
 
 A new Flutter project.
 
