@@ -1,4 +1,4 @@
-# Edible Application
+# Edible Plants Application
 
 A new Flutter project.
 
